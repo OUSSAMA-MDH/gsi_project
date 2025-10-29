@@ -1,0 +1,5 @@
+subscription_id,member_id,amount,date,status
+1,Ahmed Ali,500,2024-09-01,Paid
+2,Sara Ben,500,2024-09-05,Pending
+3,Youssef Hamid,500,2024-09-10,Paid
+4,Fatima Noor,500,2024-09-12,Pending
